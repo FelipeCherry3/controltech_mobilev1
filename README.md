@@ -1,4 +1,4 @@
-# 📱 Aplicativo de Cadastro de Ativos, Licenças e Funcionários
+# 📱 CONTROLTECH - Aplicativo de Cadastro de Ativos, Licenças e Funcionários
 
 ## 📖 Introdução
 
