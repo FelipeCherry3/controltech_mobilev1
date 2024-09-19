@@ -9,7 +9,6 @@ Este é um aplicativo Android desenvolvido em Java para visualização de cadast
 - **Organização Simplificada**: O aplicativo permite visualizar de forma clara e organizada as informações essenciais de ativos, licenças e funcionários.
 - **Integração Eficiente com Backend**: O backend, desenvolvido em Spring Boot, garante alta performance e integração direta com as funcionalidades do app.
 - **Interface Responsiva**: Design responsivo e amigável, otimizando a experiência do usuário.
-- **Manutenção e Escalabilidade**: O uso de Retrofit para a comunicação com o backend facilita a manutenção e possíveis expansões futuras.
 
 O **objetivo principal** do aplicativo é permitir que empresas tenham uma solução rápida e prática para gerenciar seus ativos, licenças e funcionários, melhorando a gestão e a eficiência no controle de dados.
 
