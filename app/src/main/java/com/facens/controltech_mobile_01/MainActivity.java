@@ -18,6 +18,7 @@ import com.facens.controltech_mobile_01.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    private int login;
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
 
