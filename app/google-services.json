@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802417907445",
+    "project_id": "controltech-ea1f0",
+    "storage_bucket": "controltech-ea1f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802417907445:android:459d76c3be58efcb3017bc",
+        "android_client_info": {
+          "package_name": "com.facens.controltech_mobile_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAKpla4tFIzjIo1rQa1Fqu53iw6GWYHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
